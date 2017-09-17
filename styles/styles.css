@@ -1,0 +1,20 @@
+img{
+    float: right;
+    height: 225px;
+    border-style: ridge;
+}
+
+.alcatraz-styling{
+    clear: right;
+}
+
+.alcatraz-photo{
+    float: left
+}
+.alcatraz-text{
+    float: left;
+    width: 52%
+}
+h1, h3, p{
+    margin: 5px;
+}
